@@ -13,3 +13,5 @@ Random Forest: Chosen for its robustness and interpretability.
 XGBoost: Considered for high performance and speed.
 Logistic Regression: Simple and effective for binary classification.
 Neural networks: for those complex relationships in the model; Random forest chose because of it's high accuracies and efficiency.
+CLI
+Run the script in the command line to predict the mental health condition based on symptom inputs.
